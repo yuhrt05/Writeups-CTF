@@ -34,3 +34,4 @@ What is the name of the first file dropped by the ransomware?
 `Answer: infpub.dat`
 
 Ôn thi đã r viết sau nha
+

@@ -293,3 +293,4 @@ Kiểm tra lịch sử trình duyệt mình dùng plugin `iehistory`, thấy đ�
 ![image](https://github.com/user-attachments/assets/4bdbeab4-9593-4b2d-9afe-b7ff7383ee7d)
 
 `Answer: allsafe_update.exe`
+

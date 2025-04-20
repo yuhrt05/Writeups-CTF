@@ -23,3 +23,4 @@
 | `apache2/access.log`| Ghi lại truy cập HTTP tới máy chủ Apache                                                   | IP nào truy cập trang web nào, phương thức GET/POST                      |
 | `apache2/error.log` | Ghi lại lỗi dịch vụ web Apache                                                             | Cảnh báo lỗi PHP, lỗi quyền truy cập                                     |
 | `apt/history.log`   | Log của `apt` khi cập nhật, nâng cấp, gỡ cài gói                                           | Thời điểm cập nhật hệ thống hoặc thêm tool                              |
+
