@@ -200,3 +200,4 @@ Cụ thể hơn thì đây khả năng là danh sách các tên `file/source` đ
 Thấy được 1 đường link `https://192.168.75.130?flag=d3dme2YxbDNmMXhfdDBfc2wxdjNyX2IzNGMwbn0=`, tiến hành decode b64 ta nhận được flag
 
 FLAG: `wwf{f1l3f1x_t0_sl1v3r_b34c0n}`
+
