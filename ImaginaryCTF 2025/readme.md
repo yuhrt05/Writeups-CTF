@@ -291,3 +291,19 @@ Chi tiết:
 ![image](images/11.png)
 
 `FLAG: ictf{l1k3_gRPC_bUt_l3ss_g0ogly}`
+
+# _system-hardening-11_
+
+![image](images/5.png)
+
+https://docs.google.com/document/d/1nSoJefgduO1PPtYSzD0kZTx2Ip2NRcrYrvBIaPawJAA/edit?tab=t.0
+
+## _Solution_
+
+Trong giải làm được có bằng này ☠
+
+<img width="1916" height="1056" alt="image" src="https://github.com/user-attachments/assets/425b5659-2aff-47d6-981f-85a4a26a997c" />
+
+Official writeups tại: [Solution Linux Mint](https://docs.google.com/document/d/1nSoJefgduO1PPtYSzD0kZTx2Ip2NRcrYrvBIaPawJAA/edit?tab=t.0).
+
+
